@@ -5,6 +5,16 @@
 [![Release](https://img.shields.io/github/v/release/WhitesayAI/wechat-ai-writer-skill)](https://github.com/WhitesayAI/wechat-ai-writer-skill/releases)
 [![License](https://img.shields.io/github/license/WhitesayAI/wechat-ai-writer-skill)](LICENSE)
 
+## 👋🏻 关于作者
+
+**林浩** | Wechat：EmbraceAIWorld
+
+- 👋🏻 热爱 AI 的文科打工人
+- 💻 专注 AI 编程、agent、自动化
+- 🌱 纯小白视角，记录学习干货
+
+---
+
 ## 📖 简介
 
 `wechat-ai-writer` 是一个完整的微信公众号文章管理工具，支持文章创作、提取、转换、排版和发布的全流程自动化。
